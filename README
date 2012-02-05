@@ -1,0 +1,12 @@
+vmctl - VMware ConTroL script - Johan Hedberg, 2012 - https://johan.pp.se
+
+This is a simple script to simplify automatic power management for VMware.
+Probably works on both ESX and ESXi, though only tested on ESXi.
+
+
+Requirements:
+
+	* SSH enabled on VMware server
+
+	* SSH keys setup for noninteractive use
+
